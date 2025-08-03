@@ -1,0 +1,34 @@
+---
+title: "r-learn"
+format: html
+editor: visual
+---
+
+## data clean
+
+I try to use the quarto to record my learn progress of R.
+
+```{r}
+#| label: hist-x
+#| fig-cap: "正态分布直方图"
+x <- rnorm(200)
+hist(x)
+```
+I am amazing about the quarto to write R scripts.Because I find it can run the code and it give me the plot. Maybe one day, it will become my often using tool.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
